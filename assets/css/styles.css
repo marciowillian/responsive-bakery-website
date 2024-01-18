@@ -271,6 +271,11 @@ img {
     background: linear-gradient(180deg, hsla(0, 0%, 0%, 0) 0%, hsl(0, 0%, 6%) 100%);
 }
 
+.home__data {
+    position: relative;
+    text-align: center;
+}
+
 .home__title {
     font-size: var(--biggest-font-size);
     font-family: var(--second-font);
